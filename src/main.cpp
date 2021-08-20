@@ -1,3 +1,15 @@
+/*
+By: Jeff Underly (DesignCell)
+Date: 2021.08.19
+
+eBike
+
+DC motor driver with rudementy ramping. Speed Signal
+from potentiometer with adjustable top speed pot.
+Source power circuit has soft power latch allowing
+Break to 'wake up' and idle timeout disconnect.
+*/
+
 #include <Arduino.h>
 
 #define SERIAL_DEBUG
