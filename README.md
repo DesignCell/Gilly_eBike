@@ -18,6 +18,9 @@ Transistors and Resistors for Soft Power Latch
 1/4" Threaded rod and 6x
 
 Reference Links:
+
 https://youtu.be/QeaKTFz5S8c
+
 https://photos.app.goo.gl/d2G3Z9wxsQ9f6c7Q7
+
 https://autode.sk/3AXA1PO
